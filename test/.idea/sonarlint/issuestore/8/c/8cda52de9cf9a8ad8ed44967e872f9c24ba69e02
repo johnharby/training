@@ -1,0 +1,6 @@
+
+w
+java:S4165"aRemove this useless assignment; "arr" already holds the assigned value along all execution paths.(¬‚÷½
+n
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ô¹Âc
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ò«îÂùÿÿÿÿ

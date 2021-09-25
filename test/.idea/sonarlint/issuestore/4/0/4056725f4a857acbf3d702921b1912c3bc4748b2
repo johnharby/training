@@ -1,0 +1,8 @@
+
+D
+java:S1481	"(Remove this unused "len" local variable.(ãÖ¹/8Ô¾ö–/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8„´û–/
+S
+java:S1854	"7Remove this useless assignment to local variable "len".(ãÖ¹/8Ô¾ö–/
+]	java:S125
+"<This block of commented-out lines of code should be removed.(­¡•Àıÿÿÿÿ8Ã…ú–/

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="&gt;edu.princeton.cs" />
+      <option name="name" value="princeton algs4" />
+      <option name="url" value="https://mvnrepository.com/artifact/edu.princeton.cs/algs4" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="org.coursera.algs4" />
+      <option name="name" value="Algs4 coursera course custom repository" />
+      <option name="url" value="https://raw.github.com/slok/algs4-mvn-repo/master" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="princeton-repo" />
+      <option name="name" value="princeton repo" />
+      <option name="url" value="https://mvnrepository.com/artifact" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="a06a98e1-2000-4f6c-afa0-534a9aa60cae" />
+      <option name="name" value="a06a98e1-2000-4f6c-afa0-534a9aa60cae" />
+      <option name="url" value="https://mvnrepository.com/artifact/edu.princeton.cs/algs4" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="princeton-repo" />
+      <option name="name" value="princeton repo" />
+      <option name="url" value="https://mvnrepository.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="org.coursera.algs4" />
+      <option name="name" value="Algs4 coursera course custom repository" />
+      <option name="url" value="https://mvnrepository.com/artifact/edu.princeton.cs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="org.coursera.algs4" />
+      <option name="name" value="Algs4 coursera course custom repository" />
+      <option name="url" value="https://mvnrepository.com/artifact/edu.princeton.cs/algs4" />
+    </remote-repository>
+  </component>
+</project>

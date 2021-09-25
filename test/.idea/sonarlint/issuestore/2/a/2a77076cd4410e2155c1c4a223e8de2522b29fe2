@@ -1,0 +1,21 @@
+
+x
+java:S1192¾"aDefine a constant instead of duplicating this literal "but no more tokens are available" 8 times.(’ƒÛÑ
+p
+java:S1192ò"YDefine a constant instead of duplicating this literal "but the next token is \"" 7 times.(µé–æ
+u
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(§Œÿµşÿÿÿÿ
+U
+java:S4719Ù"9Replace charset name argument with StandardCharsets.UTF_8(Œ‡àçıÿÿÿÿ
+L
+java:S1133é"5Do not forget to remove this deprecated code someday.(Ÿôñ¯
+_
+java:S1123è"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133õ"5Do not forget to remove this deprecated code someday.(èãïúÿÿÿÿ
+_
+java:S1123ô"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133ÿ"5Do not forget to remove this deprecated code someday.(¾ùİÉ
+_
+java:S1123ş"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš

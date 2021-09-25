@@ -1,0 +1,16 @@
+
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(óæŞøÿÿÿÿ8†½“†ß.
+n	java:S128¦"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8ê¤¶¸Ş.
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(¸—¹€şÿÿÿÿ8â»è¸Ş.
+[	java:S106ª"9Replace this use of System.out or System.err by a logger.(›§¼åúÿÿÿÿ8á—¸¸Ş.
+n	java:S128´"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ8¶±¹…ß.
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(à½õÅúÿÿÿÿ8‘÷õ…ß.
+[	java:S106¸"9Replace this use of System.out or System.err by a logger.(—Æ‚üÿÿÿÿ8¶±¹…ß.
+n	java:S128®"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ8À¬›¹Ş.
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(İ±Á‘øÿÿÿÿ8ºÿ§…ß.
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(Ã¹ˆ8ÿ±İ¸Ş.
+n	java:S128©"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8‡²å¸Ş.
+I
+java:S1612v",Replace this lambda with a method reference.(ğË‘®8é—¬†ß.
+U	java:S106§"9Replace this use of System.out or System.err by a logger.(—ƒr8±£¸Ş.
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(¡îÜì8ÿˆ¬ƒß.

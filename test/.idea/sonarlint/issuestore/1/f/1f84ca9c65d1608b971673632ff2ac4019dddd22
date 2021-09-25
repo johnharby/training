@@ -1,0 +1,10 @@
+
+N
+java:S1612",Replace this lambda with a method reference.(Òáî™úÿÿÿÿ8Æ…Ş—å.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”òü¥ıÿÿÿÿ8·ØÉ—å.
+N
+java:S1612",Replace this lambda with a method reference.(ñ˜²àùÿÿÿÿ8Õêİ—å.
+N
+java:S1602",Remove useless curly braces around statement(Òáî™úÿÿÿÿ8Æ…Ş—å.
+N
+java:S1602",Remove useless curly braces around statement(ñ˜²àùÿÿÿÿ8Õêİ—å.

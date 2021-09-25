@@ -1,0 +1,23 @@
+
+k
+java:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(œ”¦»úÿÿÿÿ
+Q
+java:S6212"/Declare this local variable with "var" instead.(¾„ëüÿÿÿÿ8Ïù‡•/
+E
+java:S6212"/Declare this local variable with "var" instead.(ŸğÑµ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¤öÎÿÿÿÿÿ
+W
+java:S1854":Remove this useless assignment to local variable "output".(¡ÑÃ¹8¦¤Œ•/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ä‘äıÿÿÿÿ8ö¶‹•/
+Z
+java:S1197"8Move the array designator from the variable to the type.(ä‘äıÿÿÿÿ8÷¶‹•/
+P	java:S125"<This block of commented-out lines of code should be removed.(¥¦Õ
+L
+java:S6212"/Declare this local variable with "var" instead.(¨Ìû 8ù¶‹•/
+]	java:S125"<This block of commented-out lines of code should be removed.(Ê„÷üÿÿÿÿ8¨¤Œ•/
+H
+java:S1481"+Remove this unused "output" local variable.(¡ÑÃ¹8©¤Œ•/

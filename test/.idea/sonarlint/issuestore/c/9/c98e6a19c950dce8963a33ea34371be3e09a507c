@@ -1,0 +1,16 @@
+
+[
+java:S1197‰"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8ÑÑ„ Ú.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ûå8ÑÑ„ Ú.
+T	java:S106L"9Replace this use of System.out or System.err by a logger.(ÊñÅz8ÑÑ„ Ú.
+V
+java:S1197‹"8Move the array designator from the variable to the type.(òÛ×Õ8ÑÑ„ Ú.
+r	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›û“öÿÿÿÿÿ8ÑÑ„ Ú.
+u	java:S116	"TRename this field "heap_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò©”¬şÿÿÿÿ8ÑÑ„ Ú.
+T
+java:S1197n"8Move the array designator from the variable to the type.(ŞÊû_8ÑÑ„ Ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—îÆ[8ÑÑ„ Ú.
+?
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ÑÑ„ Ú.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ÔÏğóıÿÿÿÿ8ÑÑ„ Ú.

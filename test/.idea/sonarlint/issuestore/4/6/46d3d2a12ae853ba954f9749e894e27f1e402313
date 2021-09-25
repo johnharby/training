@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘°­ìüÿÿÿÿ8ıÇï­ü.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(£îÁ@8ıÇï­ü.
+t
+java:S3077	"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(˜í³Ú8ÜÏü­ü.
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8ıÇï­ü.
