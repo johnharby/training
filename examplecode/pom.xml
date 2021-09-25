@@ -10,13 +10,6 @@
 	<maven.compiler.source>14</maven.compiler.source>
 	<maven.compiler.target>14</maven.compiler.target>
     </properties>
-    <repositories>
-        <repository>
-            <id>org.coursera.algs4</id>
-            <name>Algs4 coursera course custom repository</name>
-            <url>https://mvnrepository.com/artifact/edu.princeton.cs</url>
-        </repository>
-    </repositories>
     <dependencies>
         <dependency>
             <groupId>com.google.guava</groupId>
@@ -64,11 +57,6 @@
             <groupId>com.sparkjava</groupId>
             <artifactId>spark-core</artifactId>
             <version>2.9.3</version>
-        </dependency>
-        <dependency>
-            <groupId>edu.princeton.cs</groupId>
-            <artifactId>algs4</artifactId>
-            <version>1.0.3</version>
         </dependency>
     </dependencies>
     <build>
