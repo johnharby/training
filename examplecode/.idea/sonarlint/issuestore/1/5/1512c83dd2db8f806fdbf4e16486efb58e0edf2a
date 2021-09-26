@@ -1,9 +1,0 @@
-
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.( ü¼¹8Õ¼â‘×.
-9
-java:S1643"Use a StringBuilder instead.(¬œ¦à8Õ¼â‘×.
-K
-java:S54137")Verify that "remove()" is used correctly.(ç“—”şÿÿÿÿ8—Îñ‘×.
-=	java:S131N""Add a default case to this switch.(î­™o8¼™ç‘×.
-U	java:S106a"9Replace this use of System.out or System.err by a logger.(îúé8Í€’×.

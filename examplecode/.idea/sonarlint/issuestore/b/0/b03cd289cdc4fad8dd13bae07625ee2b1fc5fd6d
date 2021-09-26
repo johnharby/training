@@ -1,8 +1,0 @@
-
-K
-java:S1481")Remove this unused "flag" local variable.(ŸÿáÑÿÿÿÿÿ8»ÊƒêÞ.
-t
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ýêçâÿÿÿÿÿ8Îå±¼à.
-t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ïåÑ§á.
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ8§Ôé§á.
-U	java:S106$"9Replace this use of System.out or System.err by a logger.(ôÒ’à8ÈØç§á.

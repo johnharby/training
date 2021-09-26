@@ -1,14 +1,0 @@
-
-^
-java:S1075#"ARefactor your code to get this URI from a customizable parameter.(€é¿µ8—Þµ™Ô.
-L
-java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8î«®™Ô.
-]	java:S125"<This block of commented-out lines of code should be removed.(œ‡‘ˆùÿÿÿÿ8úó­™Ô.
-Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ê–å øÿÿÿÿ8±×À™Ô.
-Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ê–å øÿÿÿÿ8®¶¿™Ô.
-F
-java:S1481")Remove this unused "line" local variable.(œõž¶8úó­™Ô.
-b
-java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÂõÛÅ8•Í®™Ô.
-V
-java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ÂõÛÅ8•Í®™Ô.

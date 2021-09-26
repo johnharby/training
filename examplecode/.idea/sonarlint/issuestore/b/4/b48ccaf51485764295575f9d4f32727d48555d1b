@@ -1,11 +1,0 @@
-
-|
-java:S11498"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(©ŠŸ8ó»¨Ï.
-D
-java:S1481"(Remove this unused "len" local variable.(ÉÓÛ8ÌŠ…¨Ï.
-|
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8Ì–ƒ¨Ï.
-|
-java:S1149""_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8‘èô§Ï.
-S
-java:S1854"7Remove this useless assignment to local variable "len".(ÉÓÛ8ÌŠ…¨Ï.

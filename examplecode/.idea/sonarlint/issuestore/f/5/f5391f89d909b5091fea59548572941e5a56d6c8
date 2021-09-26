@@ -1,6 +1,0 @@
-
-Z	java:S106A"9Replace this use of System.out or System.err by a logger.(Ó»æøÿÿÿÿÿ8“àŠúØ.
-{
-java:S3012$"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ø¸êÛÿÿÿÿÿ8½ şùØ.
-r
-java:S1450	"URemove the "number" field and declare it as a local variable in the relevant methods.(òù´Ê8½ şùØ.

@@ -1,8 +1,0 @@
-
-v
-java:S3012X"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‘ß×Ü8Ç‡“ª…/
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¶…åþÿÿÿÿ8Ç‡“ª…/
-t
-java:S37760"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(‡—“ƒûÿÿÿÿ8Ç‡“ª…/
-v
-java:S3012&"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‘ß×Ü8Ç‡“ª…/

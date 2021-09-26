@@ -1,7 +1,0 @@
-
-X	java:S125"<This block of commented-out lines of code should be removed.(öøÏ¶8©•ö‚²/
-Z	java:S106!"9Replace this use of System.out or System.err by a logger.(”¨ÖÅüÿÿÿÿ8²•ö‚²/
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8³•ö‚²/
-Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ÉùŒôøÿÿÿÿ8¸•ö‚²/
-S
-java:S1144"1Remove this unused private "printMDArray" method.(·ëğıÿÿÿÿ8¹•ö‚²/

@@ -1,8 +1,0 @@
-
-V	java:S106¦"9Replace this use of System.out or System.err by a logger.(øŠõâ8íÔğÀÉ.
-Q
-java:S3740"/Provide the parametrized type for this generic.(Êß€Çùÿÿÿÿ8Ã°ÀÉ.
-I
-java:S1168Œ"+Return an empty collection instead of null.(¥¹ï8™Œ±ÀÉ.
-
-java:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áÄï¦8™Œ±ÀÉ.

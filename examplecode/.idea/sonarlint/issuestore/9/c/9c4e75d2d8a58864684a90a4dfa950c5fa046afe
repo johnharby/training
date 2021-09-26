@@ -1,12 +1,0 @@
-
-j
-java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ğÀ“ıÿÿÿÿ8¦–ı‡×.
-b
-java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ö—¥¼8Äîø‡×.
-L
-java:S2093
-"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ğˆˆ×.
-c
-java:S1075"ARefactor your code to get this URI from a customizable parameter.(æÜ×Ôıÿÿÿÿ8î‹ô‡×.
-^
-java:S1075"ARefactor your code to get this URI from a customizable parameter.(§”‡õ8Ï×÷‡×.
